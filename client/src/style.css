@@ -1,0 +1,21 @@
+.modal-row {
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 20px;
+    padding: 0 16px;
+}
+
+.button-row {
+    display: flex;
+    justify-content: end;
+}
+
+td:last-child {
+    display: flex;
+    justify-content: space-around;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
